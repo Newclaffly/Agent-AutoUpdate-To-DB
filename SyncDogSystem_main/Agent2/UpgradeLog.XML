@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Agent2">
+</Property><Property Name="Solution File" Value="D:\SyncDogSystem_main\Agent2\Agent2.sln">
+</Property><Property Name="User Options File" Value="D:\SyncDogSystem_main\Agent2\Agent2.suo">
+</Property><Property Name="Date" Value="17 September 2019">
+</Property><Property Name="Time" Value="15:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Agent2.sln" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Agent2.suo" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2.suo">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Agent2.csproj" Description="Project file successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Agent2.csproj">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Agent2.csproj.user" Description="Project user file successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Agent2.csproj.user">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Form1.cs" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Form1.Designer.cs" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Program.cs" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Program.cs">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Properties\Settings.settings" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\iconfinder_icon_animal_cachorro_3316536.ico" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\iconfinder_icon_animal_cachorro_3316536.ico">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Form1.resx" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Properties\Resources.resx" Description="File successfully backed up as D:\SyncDogSystem_main\Agent2\Backup\Agent2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Agent2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Agent2" Source="Agent2\Agent2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Agent2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Agent2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Agent2" Source="Agent2\Agent2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
